@@ -1,9 +1,9 @@
-# Free Animated SVG Icons from Designforventures.co
+<h1 id="freeanimatedsvgiconsfromdesignforventures.co">Free Animated SVG Icons from Designforventures.co</h1>
 
-Uses KeyshapeJS Animation which is the safest way to export SVG animations as they play on all modern web browsers. It uses a piece of JavaScript code, which animates the SVG document, so that all modern web browsers display the animation correctly.
+<p>Uses <strong>KeyshapeJS Animation</strong> which is the safest way to export SVG animations as they play on all modern web browsers. It uses a piece of JavaScript code, which animates the SVG document, so that all modern web browsers display the animation correctly.</p>
 
-# Demo
-http://beta.designforventures.co/Free-Animated-SVG-Icons/#icons
+<h2 id="demo">Demo</h2>
 
-All animations made by Juan Fernando Maguid using Keyshape app.
+<p>http://beta.designforventures.co/Free-Animated-SVG-Icons/#icons</p>
 
+<p><em>All animations made by Juan Fernando Maguid using Keyshape app.</em></p>
