@@ -1,6 +1,6 @@
 <h1 id="freeanimatedsvgiconsfromdesignforventures.co">Free Animated SVG Icons from Designforventures.co</h1>
 
-<p><img src="http://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/AnimatedSVGIconsD4V@1x.jpg" alt="" /></p>
+<p><img src="http://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/banners/D4VBannerOpt.gif" alt="" /></p>
 
 <h2 id="iloveiconsandioveanimation.">I love icons and Iove animation.</h2>
 
