@@ -1,6 +1,7 @@
+
 <h1 id="freeanimatedsvgiconsfromdesignforventures.co">Free Animated SVG Icons from Designforventures.co</h1>
 
-<p><img src="http://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/banners/D4VBannerOpt.gif" alt="" /></p>
+<p><img src="http://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/AnimatedSVGIconsD4V@1x.jpg" alt="" /></p>
 
 <h2 id="iloveiconsandioveanimation.">I love icons and Iove animation</h2>
 
@@ -13,3 +14,8 @@
 <p>http://beta.designforventures.co/Free-Animated-SVG-Icons/</p>
 
 <p><em>All animations made by <strong>Juan Fernando Maguid</strong> using Keyshape app.</em></p>
+
+<h2 id="systemrequirements">System requirements</h2>
+
+<p>Works really great in all major browsers on planet Earth.</p>
+
