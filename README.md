@@ -1,8 +1,8 @@
 <h1 id="freeanimatedsvgiconsfromdesignforventures.co">Free Animated SVG Icons from Designforventures.co</h1>
 
-<p><img src="http://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/AnimatedSVGIconsD4V@1x.jpg" alt="" /></p>
+<p><img src="http://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/banners/D4VBannerOpt.gif" alt="" /></p>
 
-<h2 id="iloveiconsandioveanimation.">I love icons and Iove animation.</h2>
+<h2 id="iloveiconsandioveanimation.">I love icons and Iove animation</h2>
 
 <p>So why not combine them both? These animated UI icons are SVG and free to use, licensed under MIT. You could always buy me a coffee.</p>
 
@@ -13,3 +13,6 @@
 <p>http://beta.designforventures.co/Free-Animated-SVG-Icons/</p>
 
 <p><em>All animations made by <strong>Juan Fernando Maguid</strong> using Keyshape app.</em></p>
+
+##System requirements
+Works really great in all major browsers on planet Earth.
