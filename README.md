@@ -15,5 +15,5 @@
 
 <p><em>All animations made by <strong>Juan Fernando Maguid</strong> using Keyshape app.</em></p>
 
-##System requirements
+<h2 id="requirements">System requirements</h2>
 <p>Works really great in all major browsers on planet Earth.</p>
