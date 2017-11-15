@@ -1,3 +1,4 @@
+
 <h1 id="freeanimatedsvgiconsfromdesignforventures.co">Free Animated SVG Icons from Designforventures.co</h1>
 
 <p><img src="http://beta.designforventures.co/Free-Animated-SVG-Icons/warehouse/banners/D4VBannerOpt.gif" alt="" /></p>
@@ -14,5 +15,12 @@
 
 <p><em>All animations made by <strong>Juan Fernando Maguid</strong> using Keyshape app.</em></p>
 
+<<<<<<< HEAD
 ##System requirements
 Works really great in all major browsers on planet Earth.
+=======
+<h2 id="systemrequirements">System requirements</h2>
+
+<p>Works really great in all major browsers on planet Earth.</p>
+
+>>>>>>> bae2e73e4eab47fc9cb757ee513f802b1d9e6e75
